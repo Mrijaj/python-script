@@ -18,4 +18,4 @@ email_add=["@ymail" ,"@gmail ", "@google ", "@hpe ", "@cognizant ", " @microsoft
     
     email=first.lower().strip() + last.lower().strip() + email+".com"
     print(f" {first} {last} \n {phone}\n {Address}\n {email}\n")
-    #Hello How are you
+    #Hello
